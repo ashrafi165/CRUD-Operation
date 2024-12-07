@@ -1,9 +1,9 @@
 ![1](https://github.com/user-attachments/assets/45303662-f890-4ec2-bb5d-5d9d73d314f7)
 ![3](https://github.com/user-attachments/assets/48ac7dc9-dd68-4512-83db-621611830977)
 ![4](https://github.com/user-attachments/assets/f2abf551-2590-485e-8a38-69e3356df169)
-                            #### The Project Outline: 
+The Project Outline: 
 ![5](https://github.com/user-attachments/assets/f0769817-55ed-43bf-8c40-10ac98fb18bf)
-                          Models.py & forms.py:
+Models.py & forms.py:
 ![6](https://github.com/user-attachments/assets/65c09b09-bd84-4e48-a4fd-bc84e3fb6628)
 Views.py & urls.py :
 ![7](https://github.com/user-attachments/assets/930809cd-13df-4fe1-b0bc-b1a3e1f50c8e)
